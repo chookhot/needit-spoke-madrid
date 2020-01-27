@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_instance">
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_type display_value="Get Property">9f204566db0200102ebce04a489619fc</action_type>
+        <action_type_parent/>
+        <comment/>
+        <compiled_snapshot/>
+        <display_text/>
+        <flow display_value="Action Test Flow">4f738de6db0200102ebce04a48961970</flow>
+        <order>1</order>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-02 20:26:26</sys_created_on>
+        <sys_id>d71409aadb0200102ebce04a4896191f</sys_id>
+        <sys_mod_count>18</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt Spoke" source="x_390190_needit_sp">045db062db0200102ebce04a48961942</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Spoke">045db062db0200102ebce04a48961942</sys_scope>
+        <sys_update_name>sys_hub_action_instance_d71409aadb0200102ebce04a4896191f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-02 23:03:56</sys_updated_on>
+        <ui_id>1b5a00ba-7f2a-4167-a145-dfe3eb8d449e</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=d71409aadb0200102ebce04a4896191f"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>d71409aadb0200102ebce04a4896191f</document_key>
+        <order>0</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-02 21:18:14</sys_created_on>
+        <sys_id>3dff01a2db4200102ebce04a4896198f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-02 21:18:14</sys_updated_on>
+        <value>x_58872_needit.autoCloseOverdue</value>
+        <variable display_value="">7c6ecd22db4200102ebce04a48961957</variable>
+    </sys_variable_value>
+</record_update>
